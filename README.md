@@ -5,7 +5,7 @@ Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at 
 - 🌱 I’m currently studying Data Science @ NYU Shanghai
 - 📫 How to reach me: alisonyao821@gmail.com
 - 👯 I’m looking to collaborate on Kaggle competitions
-- 💬 Ask me about learning Chinese, traveling, Netflix or Marvel
+- 💬 Ask me about badminton, learning Chinese, traveling, Netflix or Marvel
 - ⚡ Fun fact: I'm a cat person who wants a golden retriever
 
 <!--
