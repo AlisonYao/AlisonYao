@@ -6,7 +6,7 @@ Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at 
 - 📫 How to reach me: alisonyao821@gmail.com
 - 👯 I’m looking to collaborate on Kaggle competitions
 - :black_nib: I blog on [medium](https://medium.com/@AlisonYuhanYao) from time to time
-- 💬 Ask me about badminton, learning Chinese, traveling, Netflix or Marvel
+- 💬 Ask me about badminton, guitar, traveling, Netflix or Marvel
 - ⚡ Fun fact: I'm a cat person who wants a golden retriever
 
 <!--
