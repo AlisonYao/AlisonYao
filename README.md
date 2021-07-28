@@ -9,14 +9,20 @@ Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at 
 - 💬 Ask me about badminton, guitar, traveling, Netflix or Marvel
 - ⚡ Fun fact: I'm a cat person who wants a golden retriever
 
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/yuhanyao/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alisonyao" height="30" width="40" /></a>
-<a href="https://medium.com/@alisonyuhanyao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisonyuhanyao" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yuhanyao/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alisonyao" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@alisonyuhanyao" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisonyuhanyao" height="30" width="40" />
+  </a>
 </p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
   
   <!-- MySQL -->
@@ -54,7 +60,7 @@ Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
   
-  <div> </div>
+  <div></div>
   
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank"> 
