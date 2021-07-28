@@ -1,6 +1,6 @@
 ### Alison's Github Profile 👋
 
-Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at Coopsight and an aspiring Data Scientist. I live in Shanghai, China and speak Chinese 🇨🇳 and English 🇺🇸. 
+Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at Coopsight and an aspiring Data Scientist. I live in Shanghai, China and speak Mandarin 🇨🇳, English 🇺🇸 and a little bit of Spanish 🇪🇸. 
 
 - 🌱 I’m currently studying Data Science @ NYU Shanghai
 - 📫 How to reach me: alisonyao821@gmail.com
