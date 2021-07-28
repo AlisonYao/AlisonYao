@@ -9,6 +9,12 @@ Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at 
 - 💬 Ask me about badminton, guitar, traveling, Netflix or Marvel
 - ⚡ Fun fact: I'm a cat person who wants a golden retriever
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yuhanyao/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alisonyao" height="30" width="40" /></a>
+<a href="https://medium.com/@AlisonYuhanYao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="_khushboo.goel" height="30" width="40" /></a>
+</p>
+
 <!--
 https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
