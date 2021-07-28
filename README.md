@@ -1,6 +1,6 @@
-### Alison's Github Profile 👋
+# Alison's Github Profile 👋
 
-Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at Coopsight and an aspiring Data Scientist. I live in Shanghai, China and speak Mandarin 🇨🇳, English 🇺🇸 and a little bit of Spanish 🇪🇸. 
+Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at Coopsight and an aspiring Data Scientist. I live in Shanghai, China and speak Mandarin 🇨🇳, English 🇺🇸 and a little bit of Spanish 🇪🇸.
 
 - 🌱 I’m currently studying Data Science @ NYU Shanghai
 - 📫 How to reach me: alisonyao821@gmail.com
@@ -9,8 +9,7 @@ Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at 
 - 💬 Ask me about badminton, guitar, traveling, Netflix or Marvel
 - ⚡ Fun fact: I'm a cat person who wants a golden retriever
 
-
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yuhanyao/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alisonyao" height="30" width="40" />
@@ -24,14 +23,7 @@ Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at 
 </p>
 </p>
 
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
   <!-- MySQL -->
@@ -107,6 +99,11 @@ Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at 
   </a> 
  
  </p>
+
+### Latest Blog Posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
