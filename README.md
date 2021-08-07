@@ -101,6 +101,7 @@ Hi there! This is Alison Yuhan Yao. I am a Software Developer & entrepreneur at 
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Science Undergrad Journey Part3: My Internship & Research Experience](https://medium.com/@AlisonYuhanYao/ds-undergrad-journey-part3-my-internship-research-experience-907aaa57c497?source=rss-17016fd04e22------2)
 - [Data Science Undergrad Journey Part2: School Courses I find helpful](https://medium.com/nerd-for-tech/data-science-undergrad-journey-part2-school-courses-i-find-helpful-a3b7f9b47258?source=rss-17016fd04e22------2)
 - [Data Science Undergrad Journey Part1: Why did I choose Data Science as my major?](https://medium.com/nerd-for-tech/data-science-undergrad-journey-part1-why-did-i-choose-data-science-as-my-major-606202be1aba?source=rss-17016fd04e22------2)
 <!-- BLOG-POST-LIST:END -->
