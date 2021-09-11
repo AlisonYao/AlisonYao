@@ -1,6 +1,6 @@
 # Alison's Github Profile 👋
 
-Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an aspiring Data Scientist. My home is in Shanghai, China. I am currently live in Abu Dhabi, UAE. I speak Mandarin 🇨🇳, English 🇺🇸 and a little bit of Spanish 🇪🇸. 
+Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an aspiring Data Scientist. My home is in Shanghai, China. I am currently living in Abu Dhabi, UAE. I speak Mandarin 🇨🇳, English 🇺🇸 and a little bit of Spanish 🇪🇸. 
 
 - 🌱 I’m currently studying Data Science @ NYU Shanghai
 - 📫 How to reach me: alisonyao821@gmail.com
