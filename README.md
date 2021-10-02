@@ -1,6 +1,7 @@
 # Alison's Github Profile 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{AlisonYao}/count.svg)
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=AlisonYao)
 
 Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an aspiring Data Scientist. My home is in Shanghai, China. I am currently living in Abu Dhabi, UAE. I speak Mandarin 🇨🇳, English 🇺🇸 and a little bit of Spanish 🇪🇸. 
 
