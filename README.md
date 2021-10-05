@@ -113,6 +113,11 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
 - [Data Science Undergrad Journey Part1: Why did I choose Data Science as my major?](https://medium.com/nerd-for-tech/data-science-undergrad-journey-part1-why-did-i-choose-data-science-as-my-major-606202be1aba?source=rss-17016fd04e22------2)
 <!-- BLOG-POST-LIST:END -->
 
+### Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhanYao&show_icons=true&theme=tokyonight)
+
+
 <!--
 https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
