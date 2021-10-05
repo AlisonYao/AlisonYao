@@ -113,7 +113,7 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
 
 ### Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhanYao&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlisonYao&show_icons=true&theme=tokyonight)
 
 
 <!--
