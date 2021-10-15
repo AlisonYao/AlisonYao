@@ -106,7 +106,7 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
 <!-- BLOG-POST-LIST:START -->
 - [Genetic Algorithm & Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 2](https://medium.com/codex/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-2-255a25daf53e?source=rss-17016fd04e22------2)
 - [Genetic Algorithm & Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 1](https://medium.com/codex/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-1-e0dc3bcdb30c?source=rss-17016fd04e22------2)
-- [Data Science Undergrad Journey](https://medium.com/codex/ds-undergrad-journey-part3-my-internship-research-experience-907aaa57c497?source=rss-17016fd04e22------2)
+- [Data Science Undergrad Journey Part 3](https://medium.com/codex/ds-undergrad-journey-part3-my-internship-research-experience-907aaa57c497?source=rss-17016fd04e22------2)
 - [Data Science Undergrad Journey Part2: School Courses I find helpful](https://medium.com/nerd-for-tech/data-science-undergrad-journey-part2-school-courses-i-find-helpful-a3b7f9b47258?source=rss-17016fd04e22------2)
 - [Data Science Undergrad Journey](https://medium.com/nerd-for-tech/data-science-undergrad-journey-part1-why-did-i-choose-data-science-as-my-major-606202be1aba?source=rss-17016fd04e22------2)
 <!-- BLOG-POST-LIST:END -->
