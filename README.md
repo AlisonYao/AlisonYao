@@ -106,9 +106,9 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
 
 <!-- BLOG-POST-LIST:START -->
 - [The intuition behind the Central Limit Theorem](https://pub.towardsai.net/intuition-behind-central-limit-theorem-1d4a4bfeda8c?source=rss-17016fd04e22------2)
-- [Genetic Algorithm & Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 3](https://medium.com/nerd-for-tech/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-3-7f961d46a3cb?source=rss-17016fd04e22------2)
-- [Genetic Algorithm & Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 2](https://medium.com/codex/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-2-255a25daf53e?source=rss-17016fd04e22------2)
-- [Genetic Algorithm & Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 1](https://medium.com/codex/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-1-e0dc3bcdb30c?source=rss-17016fd04e22------2)
+- [Genetic Algorithm &amp; Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 3](https://medium.com/nerd-for-tech/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-3-7f961d46a3cb?source=rss-17016fd04e22------2)
+- [Genetic Algorithm &amp; Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 2](https://medium.com/codex/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-2-255a25daf53e?source=rss-17016fd04e22------2)
+- [Genetic Algorithm &amp; Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 1](https://medium.com/codex/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-1-e0dc3bcdb30c?source=rss-17016fd04e22------2)
 - [Data Science Undergrad Journey Part 3](https://medium.com/codex/ds-undergrad-journey-part3-my-internship-research-experience-907aaa57c497?source=rss-17016fd04e22------2)
 <!-- BLOG-POST-LIST:END -->
 
