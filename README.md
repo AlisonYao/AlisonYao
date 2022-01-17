@@ -112,6 +112,10 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
 - [Genetic Algorithm &amp; Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 3](https://medium.com/nerd-for-tech/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-3-7f961d46a3cb?source=rss-17016fd04e22------2)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://medium.com/@AlisonYuhanYao)
+
+---
+
 ### Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlisonYao&show_icons=true&theme=tokyonight)
