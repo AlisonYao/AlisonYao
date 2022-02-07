@@ -105,7 +105,7 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linear Regression for Causal Inference](https://medium.com/@AlisonYuhanYao/linear-regression-for-causal-inference-242da2a01086?source=rss-17016fd04e22------2)
+- [Linear Regression for Causal Inference](https://medium.com/codex/linear-regression-for-causal-inference-242da2a01086?source=rss-17016fd04e22------2)
 - [Bechdel Test: Comparing Female Representation Metrics in Movies](https://towardsdatascience.com/bechdel-test-comparing-female-representation-metrics-in-movies-6cbade15010f?source=rss-17016fd04e22------2)
 - [The Time I Coded a Biased Algorithm](https://towardsdatascience.com/the-time-i-coded-a-biased-algorithm-4ae4fba62bf6?source=rss-17016fd04e22------2)
 - [5 ways to Increase Statistical Power](https://towardsdatascience.com/5-ways-to-increase-statistical-power-377c00dd0214?source=rss-17016fd04e22------2)
