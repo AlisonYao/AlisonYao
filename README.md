@@ -105,7 +105,7 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Forecasting Time Series Data: Netflix Stock Price Prediction](https://medium.com/@AlisonYuhanYao/forecasting-time-series-data-netflix-stock-price-prediction-a941fa2c4893?source=rss-17016fd04e22------2)
+- [Forecasting Time Series Data: Netflix Stock Price Prediction](https://pub.towardsai.net/forecasting-time-series-data-netflix-stock-price-prediction-a941fa2c4893?source=rss-17016fd04e22------2)
 - [A Comprehensive Guide to Data Science Masters Application](https://towardsdatascience.com/a-comprehensive-guide-to-data-science-masters-application-c9fbefe41825?source=rss-17016fd04e22------2)
 - [Linear Regression for Causal Inference](https://medium.com/codex/linear-regression-for-causal-inference-242da2a01086?source=rss-17016fd04e22------2)
 - [Bechdel Test: Comparing Female Representation Metrics in Movies](https://towardsdatascience.com/bechdel-test-comparing-female-representation-metrics-in-movies-6cbade15010f?source=rss-17016fd04e22------2)
