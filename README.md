@@ -3,13 +3,13 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=AlisonYao)
 
-Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an aspiring Data Scientist. My home is in Shanghai, China. I am currently living in New York City. I speak Mandarin 🇨🇳 and English 🇺🇸. 
+Hi there! This is Alison Yuhan Yao. I am a Data Science student and an aspiring Data Scientist. My home is in Shanghai, China. I am currently living in New York City. I speak Mandarin 🇨🇳 and English 🇺🇸. 
 
-- 🌱 I’m currently studying Data Science at NYU Shanghai
+- 🌱 I’m currently studying Data Science at Harvard University
 - 📫 How to reach me: alisonyao821[@]gmail.com
-- 👯 I’m looking to collaborate on Kaggle competitions
+<!-- - 👯 I’m looking to collaborate on Kaggle competitions -->
 - :black_nib: I blog on [Medium](https://medium.com/@AlisonYuhanYao) from time to time
-- 💬 Ask me about guitar, badminton, traveling, Netflix or Marvel
+- 💬 Ask me about guitar, badminton, traveling, or Netflix
 - ⚡ Fun fact: I'm a cat person who wants a golden retriever
 - 😄 Pronouns: She/Her/Hers
 
@@ -66,9 +66,11 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
   </a>
     
   <!-- React -->
+  <!--
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
+  -->
   
   <!-- Javascript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -83,21 +85,6 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  
-  <!-- SASS -->
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a>
-  
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  
-  <!-- Tailwind -->
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
  
  </p>
@@ -130,5 +117,4 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
 -->
