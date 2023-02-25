@@ -6,8 +6,7 @@
 Hi there! This is Alison Yuhan Yao. I am a Data Science student and an aspiring Data Scientist. My home is in Shanghai, China. I am currently living in Boston, Massachusetts. I speak Mandarin 🇨🇳 and English 🇺🇸. 
 
 - 🌱 I’m currently studying Data Science at Harvard University
-- 📫 How to reach me: alisonyao821[@]gmail.com
-<!-- - 👯 I’m looking to collaborate on Kaggle competitions -->
+- 📫 How to reach me: alisonyao821 at gmail dot com <!-- - 👯 I’m looking to collaborate on Kaggle competitions -->
 - :black_nib: I blog on [Medium](https://medium.com/@AlisonYuhanYao) from time to time
 - 💬 Ask me about guitar, badminton, traveling, or Netflix
 - ⚡ Fun fact: I'm a cat person who wants a golden retriever
