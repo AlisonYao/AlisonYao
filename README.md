@@ -54,10 +54,10 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science student and an aspiring 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a> 
   
-  <!-- Flask -->
+<!--   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
+  </a>  -->
   
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank"> 
