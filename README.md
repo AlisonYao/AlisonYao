@@ -3,7 +3,7 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=AlisonYao)
 
-Hi there! This is Alison Yuhan Yao. I am a Data Science student and an aspiring Data Scientist. My home is in Shanghai, China. I currently live in Boston, Massachusetts. I speak Mandarin 🇨🇳 and English 🇺🇸 and I am learning Spanish 🇲🇽. 
+Hi there! This is Alison Yuhan Yao. I am a Data Science student and an aspiring Data Scientist. I am from Shanghai, China. I currently live in Boston, Massachusetts. I speak Mandarin 🇨🇳 and English 🇺🇸 and I am learning Spanish 🇲🇽. 
 
 - 🌱 I’m currently studying Data Science at Harvard University
 - 📫 How to reach me: alisonyao821 at gmail dot com <!-- - 👯 I’m looking to collaborate on Kaggle competitions -->
