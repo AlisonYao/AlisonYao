@@ -3,13 +3,13 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=AlisonYao)
 
-Hi there! This is Alison Yuhan Yao. I am a Data Science student and an aspiring Data Scientist. I am from Shanghai, China. I currently live in Boston, Massachusetts. I speak Mandarin 🇨🇳 and English 🇺🇸 and I am learning Spanish 🇲🇽. 
+Hi there! This is Alison Yuhan Yao. I am a Data Scientist at Microsoft Azure. I am from Shanghai, China. I currently live in Boston, Massachusetts. I speak Mandarin 🇨🇳 and English 🇺🇸 and I am learning Spanish 🇲🇽. 
 
-- 🌱 I’m currently studying Data Science at Harvard University
+- 🌱 I studied Data Science at Harvard University and New York University
 - 📫 How to reach me: alisonyao821 at gmail dot com <!-- - 👯 I’m looking to collaborate on Kaggle competitions -->
 - :black_nib: I blog on [Medium](https://medium.com/@AlisonYuhanYao) from time to time
-- 💬 Ask me about guitar, badminton, traveling, or Netflix
-- ⚡ Fun fact: I'm a cat person who wants a golden retriever
+- 💬 Ask me about bouldering, badminton, guitar, traveling, or Netflix
+- ⚡ Fun fact: I'm a cat person who also wants a golden retriever
 - 😄 Pronouns: She/Her/Hers
 
 <h3 align="left">Connect with me:</h3>
