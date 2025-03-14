@@ -87,10 +87,10 @@ Hi there! This is Alison Yuhan Yao. I am a Data Scientist at Microsoft Azure. I 
 
 <!-- BLOG-POST-LIST:START -->
 - [Data Science Master’s Journey](https://medium.com/@AlisonYuhanYao/data-science-masters-journey-ec1664c63f20?source=rss-17016fd04e22------2)
-- [Label Studio Customized Backend for Semiautomatic Image Segmentation Labeling](https://medium.com/towards-data-science/label-studio-customized-backend-for-semiautomatic-image-segmentation-labeling-324c2310d756?source=rss-17016fd04e22------2)
-- [A Visual Summary of SQL Date/Time Functions](https://medium.com/towards-data-science/a-visual-summary-of-sql-date-time-functions-8bb96ce4f1b4?source=rss-17016fd04e22------2)
+- [Label Studio Customized Backend for Semiautomatic Image Segmentation Labeling](https://medium.com/data-science/label-studio-customized-backend-for-semiautomatic-image-segmentation-labeling-324c2310d756?source=rss-17016fd04e22------2)
+- [A Visual Summary of SQL Date/Time Functions](https://medium.com/data-science/a-visual-summary-of-sql-date-time-functions-8bb96ce4f1b4?source=rss-17016fd04e22------2)
 - [Forecasting Time Series Data: Netflix Stock Price Prediction](https://pub.towardsai.net/forecasting-time-series-data-netflix-stock-price-prediction-a941fa2c4893?source=rss-17016fd04e22------2)
-- [A Comprehensive Guide to Data Science Masters Application](https://medium.com/towards-data-science/a-comprehensive-guide-to-data-science-masters-application-c9fbefe41825?source=rss-17016fd04e22------2)
+- [A Comprehensive Guide to Data Science Masters Application](https://medium.com/data-science/a-comprehensive-guide-to-data-science-masters-application-c9fbefe41825?source=rss-17016fd04e22------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@AlisonYuhanYao)
