@@ -86,7 +86,7 @@ Hi there! This is Alison Yuhan Yao. I am a Data Scientist at Microsoft Azure. I 
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Agent Skills beyond Claude](https://medium.com/data-science-collective/what-is-agent-skills-beyond-claude-4cb064b513ab?source=rss-17016fd04e22------2)
+- [What are Agent Skills beyond Claude](https://medium.com/data-science-collective/what-is-agent-skills-beyond-claude-4cb064b513ab?source=rss-17016fd04e22------2)
 - [Data Science Master’s Journey](https://medium.com/@AlisonYuhanYao/data-science-masters-journey-ec1664c63f20?source=rss-17016fd04e22------2)
 - [Label Studio Customized Backend for Semiautomatic Image Segmentation Labeling](https://medium.com/data-science/label-studio-customized-backend-for-semiautomatic-image-segmentation-labeling-324c2310d756?source=rss-17016fd04e22------2)
 - [A Visual Summary of SQL Date/Time Functions](https://medium.com/data-science/a-visual-summary-of-sql-date-time-functions-8bb96ce4f1b4?source=rss-17016fd04e22------2)
